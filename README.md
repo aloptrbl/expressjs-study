@@ -50,8 +50,11 @@ App.get(‘/’, function(req, res) {
 > Middleware functions are functions that have access to the request and response object. Express has built in middleware but middleware also comes from 3rd party packages as well as custom middleware.
 
 
->•	Execute ant codes
+>•	Execute any codes
+
 >•	Make changes to the request/response objects
+
 >•	End response cycle
+
 >•	Call next middleware in the stack 
 
