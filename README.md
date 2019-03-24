@@ -58,3 +58,12 @@ App.get(‘/’, function(req, res) {
 
 >•	Call next middleware in the stack 
 
+***
+## Tools?
+> Install Postman, an API Development tool for testing purpose.
+
+## Install?
+> run npm install
+
+## Run?
+> node index
