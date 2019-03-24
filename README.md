@@ -13,9 +13,9 @@
 
 ##### What to know first?
 >JS Fundamental (Objects, Array, Conditionals, etc)
-Basic Node.js & NPM
->HTTP Status Codes
-JSON
+Basic Node.js & NPM,
+>HTTP Status Codes,
+JSON and
 High Order Array Methods – forEach, map, filter
 Arrow Functions
 
