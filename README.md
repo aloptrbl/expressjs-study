@@ -19,6 +19,18 @@ JSON and
 High Order Array Methods – forEach, map, filter
 Arrow Functions
 
+##### Basic server syntax?
+```javascript
+const express = require(‘express’);
+// Init express
+const app = express();
+// Create your endpoints/route handlers
+app.get(‘/’, function(req. res) {
+res.send(‘Hello World’);
+});
+// Listen on a port
+app.listen(5000);
+
 
 
 
