@@ -11,5 +11,15 @@
 >5.	By far the most popular Node framework
 >6.	Great to use with client side frameworks as it’s all JS
 
+##### What to know first?
+>JS Fundamental (Objects, Array, Conditionals, etc)
+Basic Node.js & NPM
+>HTTP Status Codes
+JSON
+High Order Array Methods – forEach, map, filter
+Arrow Functions
+
+
+
 
 
