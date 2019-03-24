@@ -51,7 +51,7 @@ App.get(‘/’, function(req, res) {
 
 
 >•	Execute ant codes
-•	Make changes to the request/response objects
-•	End response cycle
-•	Call next middleware in the stack 
+>•	Make changes to the request/response objects
+>•	End response cycle
+>•	Call next middleware in the stack 
 
