@@ -31,7 +31,24 @@ res.send(‘Hello World’);
 // Listen on a port
 app.listen(5000);
 
+##### Basic route handling?
+```javascript
+App.get(), app.post(), app.put(), app.delete(). Etc
+Access to params, query strings, url parts, etc
+Express has a router so we can store routes in separate files and export
+We can parse incoming data with Body Parser
 
+App.get(‘/’, function(req, res) {
+// Fetch from database
+// Load Pages
+// Return JSON
+// Full access to request & response
+});
 
-
+## Express Middleware?
+> Middleware functions are functions that have access to the request and response object. Express has built in middleware but middleware also comes from 3rd party packages as well as custom middleware.
+•	Execute ant codes
+•	Make changes to the request/response objects
+•	End response cycle
+•	Call next middleware in the stack 
 
